@@ -1,0 +1,7561 @@
+[
+    {
+        "id": "6843952569",
+        "name": "TW150114A0203230",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "E7A5YPRARB5H93ZA",
+        "lat": 23.2256033,
+        "lon": 120.309325,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "官田工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "鄰近工業區社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "台一線 威致鋼鐵工業股份有限公司前(桿號490003)"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036859121"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00230056"
+            },
+            {
+                "key": "road",
+                "value": "台一線 威致鋼鐵工業股份有限公司前(桿號490003)"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b509"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "官田區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845933853",
+        "name": "TW150114A0203216",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "4HZPU4ZFPZUSZKFX",
+        "lat": 22.977291,
+        "lon": 120.24131,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕忠路539號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037034096"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00270045"
+            },
+            {
+                "key": "road",
+                "value": "裕忠路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4be9a"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845491095",
+        "name": "TW150114A0203283",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "HC2AS9KMH79RK7G9",
+        "lat": 23.3341566,
+        "lon": 120.290655,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "社區感測"
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "鹽水武廟區溪州寮3之5號附近電桿590558口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037022232"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0040004A"
+            },
+            {
+                "key": "road",
+                "value": "鹽水武廟區溪州寮3之5號附近電桿590558"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4aa57"
+            },
+            {
+                "key": "target",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "鹽水區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848374673",
+        "name": "TW150114A0203233",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "4R5WPYWFRECR9RKE",
+        "lat": 22.97604,
+        "lon": 120.24489,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "文山路266號"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845120"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D0029002A"
+            },
+            {
+                "key": "road",
+                "value": "文山路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5c170"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-04-20",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844966307",
+        "name": "TW150114A0203298",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "BB7Z13G505FU5C39",
+        "lat": 22.9304751,
+        "lon": 120.2455443,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "田厝高幹164對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861416"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D0019002D"
+            },
+            {
+                "key": "road",
+                "value": "田厝高幹164對面"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f49ee6"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845792743",
+        "name": "TW150114A0203279",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "WYF1ZBEKPUCWMH1M",
+        "lat": 22.9271888,
+        "lon": 120.2266463,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "保安路一段39號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037042735"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D001F002F"
+            },
+            {
+                "key": "road",
+                "value": "保安路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f49afd"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-06-02",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841750928",
+        "name": "TW150114A0203254",
+        "desc": "SAQ-200",
+        "type": "general",
+        "lat": 23.18583,
+        "lon": 120.17606,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮17之10號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036854247"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00330058"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮17之10號前"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b437"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2018-08-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "manufacturerId": "",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "county": "臺南市",
+        "locationId": "TW150114A0203254"
+    },
+    {
+        "id": "6843562342",
+        "name": "TW150114A0203203",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "AAUBWSGTPWSFK4R1",
+        "lat": 22.9912986,
+        "lon": 120.2513731,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "太子路+大發路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036844867"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B001E0049"
+            },
+            {
+                "key": "road",
+                "value": "太子路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a8de"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840437227",
+        "name": "TW150114A0203299",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MWMR3252EYHY1B0X",
+        "lat": 22.9223536,
+        "lon": 120.22743,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "藥專高幹23右8"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037045605"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A004C0055"
+            },
+            {
+                "key": "road",
+                "value": "藥專高幹23右8"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c2f4"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841642026",
+        "name": "TW150114A0203253",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "0UZ4SF7M9AWUBWG3",
+        "lat": 23.186138,
+        "lon": 120.1794433,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "興化高幹33右40"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848207"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B003F004A"
+            },
+            {
+                "key": "road",
+                "value": "興化高幹33右40"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4aac0"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844650885",
+        "name": "TW150114A0203221",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "3KHGHZ0M1KB1WBCU",
+        "lat": 22.9852198,
+        "lon": 120.2450331,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕信路171號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848769"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500C003F004D"
+            },
+            {
+                "key": "road",
+                "value": "裕信路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4ae79"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841188498",
+        "name": "TW150114A0203202",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "S13TMRE37YHTHFMA",
+        "lat": 22.991495,
+        "lon": 120.2555846,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正路三段+太子路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037023198"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00370058"
+            },
+            {
+                "key": "road",
+                "value": "中正路三段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5b2a7"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842005162",
+        "name": "TW150114A0203201",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "5AZGKE0TAF9954UR",
+        "lat": 22.99514,
+        "lon": 120.2560653,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "永大路一段65巷40號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848967"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A004D0029"
+            },
+            {
+                "key": "road",
+                "value": "永大路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5c884"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841021120",
+        "name": "TW150114A0203239",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "1KAW9S17SUGU0PU2",
+        "lat": 23.1887245,
+        "lon": 120.19023,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳里興215之6號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036847027"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A0052002A"
+            },
+            {
+                "key": "road",
+                "value": "佳里興"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ad97"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842130009",
+        "name": "TW150114A0203214",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "SYR900YKWXSPH5RT",
+        "lat": 22.9815445,
+        "lon": 120.2487335,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕德街國道1號北上閘道"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037035218"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00530029"
+            },
+            {
+                "key": "road",
+                "value": "裕德街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5cd3b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842298192",
+        "name": "TW150114A0203257",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "9UMS27PMHSZKCZM9",
+        "lat": 23.1788806,
+        "lon": 120.1797026,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "六安117-37號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036843802"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500D004B0044"
+            },
+            {
+                "key": "road",
+                "value": "六安117-37號旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5cf35"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847338410",
+        "name": "TW150114A0203287",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MSWYC43RE0M73XP1",
+        "lat": 22.9254435,
+        "lon": 120.2406233,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "振興汽車往北30M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037046314"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00520029"
+            },
+            {
+                "key": "road",
+                "value": "振興汽車往北30M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f49e28"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846366426",
+        "name": "TW150114A0203238",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "PRZW3EHK2XRUSAHE",
+        "lat": 23.1857051,
+        "lon": 120.1858825,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳里興570號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037996708"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D001C002F"
+            },
+            {
+                "key": "road",
+                "value": "佳里興"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5cf90"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849853900",
+        "name": "TW150114A0203255",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "R9959HAY5M0YYR05",
+        "lat": 23.1858748,
+        "lon": 120.17212,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮17之14號往西20M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845047"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0043001E"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮17之14號往西20M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c1b2"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842820271",
+        "name": "TW150114A0203272",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "GFRMZWEW91RZ0GC0",
+        "lat": 23.174797,
+        "lon": 120.1838455,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹45右7往東30M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037047288"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00380055"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹45右7往東30M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a306"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841236176",
+        "name": "TW150114A0203296",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "7TURKPF59BCF40C5",
+        "lat": 22.9199466,
+        "lon": 120.2394713,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "文賢路二段61號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036846623"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00240045"
+            },
+            {
+                "key": "road",
+                "value": "文賢路二段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4ab93"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842954679",
+        "name": "TW150114A0203246",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MWFT97HCB5T70YPP",
+        "lat": 23.1906566,
+        "lon": 120.1838455,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "興化高幹62右8"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036844156"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500D00500046"
+            },
+            {
+                "key": "road",
+                "value": "興化高幹62右8"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4a985"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840864179",
+        "name": "TW150114A0203259",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "TH2RRYEAGXS43GYZ",
+        "lat": 23.1828345,
+        "lon": 120.1751403,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "榮盈工業對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845500"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0047001E"
+            },
+            {
+                "key": "road",
+                "value": "榮盈工業對面"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f49e86"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845365132",
+        "name": "TW150114A0203205",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "3R3EK2C124XHBH0A",
+        "lat": 22.9876688,
+        "lon": 120.2472151,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕和五街81號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037033197"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00260057"
+            },
+            {
+                "key": "road",
+                "value": "裕和五街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4aee0"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840039663",
+        "name": "TW150114A0203260",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "PG0UB3HF3F553ME9",
+        "lat": 23.182762,
+        "lon": 120.1791456,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮12之5號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037035432"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A003D0058"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮12之5號旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b2ff"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847562564",
+        "name": "TW150114A0203269",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "GARU3FC3AXXFTRKB",
+        "lat": 23.1797141,
+        "lon": 120.1892775,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹81左7左5右6"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848009"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A002D0057"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹81左7左5右6"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d0bc"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847800241",
+        "name": "TW150114A0203207",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "3730BU3934H5SPT0",
+        "lat": 22.98493,
+        "lon": 120.2513121,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "大發路66號往北50M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036847696"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0048001F"
+            },
+            {
+                "key": "road",
+                "value": "大發路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b769"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846983624",
+        "name": "TW150114A0203220",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "B52R49PWUA1001Z5",
+        "lat": 22.9852636,
+        "lon": 120.2418516,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕忠路+裕平路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037045563"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0046003A"
+            },
+            {
+                "key": "road",
+                "value": "裕忠路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4a2b6"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845508547",
+        "name": "TW150114A0203261",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "1YPT1K9CMB2HUM1A",
+        "lat": 23.1842306,
+        "lon": 120.17267,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮17之19號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845245"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0049001E"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮17之19號前"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a997"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841394469",
+        "name": "TW150114A0203284",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "FAWCU3C33MM1BBK1",
+        "lat": 23.3356916,
+        "lon": 120.2916583,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "社區感測"
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "鹽水武廟區全利農工旁桿號590555"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861366"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0041001E"
+            },
+            {
+                "key": "road",
+                "value": "鹽水武廟區全利農工旁桿號590555"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c1b0"
+            },
+            {
+                "key": "target",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "鹽水區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844078152",
+        "name": "TW150114A0203229",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "B3FSC9BM3GRGECWX",
+        "lat": 22.9841746,
+        "lon": 120.2575301,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正路三段413號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036849098"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D0024002F"
+            },
+            {
+                "key": "road",
+                "value": "中正路三段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c05a"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849073496",
+        "name": "TW150114A0203285",
+        "desc": "SAQ-200",
+        "type": "general",
+        "lat": 22.9206,
+        "lon": 120.22109,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正西路202巷168號往西25M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037022273"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A003B0058"
+            },
+            {
+                "key": "road",
+                "value": "中正西路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a3d8"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2018-08-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "manufacturerId": "",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "county": "臺南市",
+        "locationId": "TW150114A0203285"
+    },
+    {
+        "id": "6845075675",
+        "name": "TW150114A0203251",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "F4Y9AMRMBT43EE2F",
+        "lat": 23.1787623,
+        "lon": 120.1693876,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "番子寮1-18號前方15M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037032934"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A004F002A"
+            },
+            {
+                "key": "road",
+                "value": "番子寮1-18號前方15M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b094"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846291433",
+        "name": "TW150114A0203297",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "Y9UXYUFXYGAKRB51",
+        "lat": 22.9252566,
+        "lon": 120.2227476,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "二仁路一段162之1號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036862166"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00250045"
+            },
+            {
+                "key": "road",
+                "value": "二仁路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5c9fb"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843065321",
+        "name": "TW150114A0203274",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "0EHFC7FHY0UPP4M9",
+        "lat": 22.9245471,
+        "lon": 120.2253493,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "保安路一段21號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036844669"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B004C001F"
+            },
+            {
+                "key": "road",
+                "value": "保安路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4a856"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-06-05",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849241842",
+        "name": "TW150114A0203236",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "A31WM0403005AK5M",
+        "lat": 23.1713408,
+        "lon": 120.17556,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳北路+六順路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848751"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0055003B"
+            },
+            {
+                "key": "road",
+                "value": "佳北路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d589d5"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843618609",
+        "name": "TW150114A0203235",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "0YU2RR45XCS57GAA",
+        "lat": 23.1758,
+        "lon": 120.18095,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "北門農工大門口前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036858818"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500C0033005B"
+            },
+            {
+                "key": "road",
+                "value": "北門農工大門口前"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5c0a0"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842389563",
+        "name": "TW150114A0203218",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "TMKYMKSFXT7CXSYK",
+        "lat": 22.9859771,
+        "lon": 120.2383575,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕農路726巷口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037046355"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00360055"
+            },
+            {
+                "key": "road",
+                "value": "裕農路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5bad7"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845697278",
+        "name": "TW150114A0203210",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "H0BE2EH10GHBX3F4",
+        "lat": 23.2205116,
+        "lon": 120.307375,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "官田工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "鄰近工業區社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "台一線(桿號490045)"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036854833"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500C0038005B"
+            },
+            {
+                "key": "road",
+                "value": "台一線(桿號490045)"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d3c3"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "官田區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6936342210",
+        "name": "TW150114A0203250",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "PK9TPXPECSFHUXR3",
+        "lat": 23.18227,
+        "lon": 120.1650695,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮高幹78"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037037065"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D003F0030"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮高幹78"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d343"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848555032",
+        "name": "TW150114A0203276",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "YMSS2U3R7PFPZAKG",
+        "lat": 23.2989233,
+        "lon": 120.28683,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "新營工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "鄰近工業區社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "新營區南71鄉道近太子路口 (桿號新營市3134)"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A003F0057"
+            },
+            {
+                "key": "road",
+                "value": "新營區南71鄉道近太子路口 (桿號新營市3134)"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5aaa4"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "新營區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844240390",
+        "name": "TW150114A0203208",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "FTCC5GXUY5H1A571",
+        "lat": 22.9902743,
+        "lon": 120.2456511,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕農路947號"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845617"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A001F0045"
+            },
+            {
+                "key": "road",
+                "value": "裕農路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d10f"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849516584",
+        "name": "TW150114A0203280",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MG291X2ZP9WHC7Z0",
+        "lat": 23.2967916,
+        "lon": 120.2761133,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "新營工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "鄰近工業區社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "新營區新中路上 (桿號612146)"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037044624"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0044003A"
+            },
+            {
+                "key": "road",
+                "value": "新營區新中路上 (桿號612146)"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5abb9"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "新營區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844537919",
+        "name": "TW150114A0203267",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "49CEUB4EFF5M3311",
+        "lat": 23.1729811,
+        "lon": 120.1776733,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳里高幹70右8右3旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036863271"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B00360045"
+            },
+            {
+                "key": "road",
+                "value": "佳里高幹70右8右3旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a468"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848006658",
+        "name": "TW150114A0203228",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "B7F5FTK9W4WT2XFG",
+        "lat": 22.979349,
+        "lon": 120.2508,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "太乙六街98號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037033437"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00200054"
+            },
+            {
+                "key": "road",
+                "value": "太乙六街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a735"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846123246",
+        "name": "TW150114A0203293",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "4PTPCZTTABK93ZT4",
+        "lat": 22.9261416,
+        "lon": 120.2185058,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "二層行抽水站旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037045738"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B002F004A"
+            },
+            {
+                "key": "road",
+                "value": "二層行抽水站旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b49f"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841459323",
+        "name": "TW150114A0203282",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "7RWCXTFS1H7C190M",
+        "lat": 22.9229353,
+        "lon": 120.2359236,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "文賢國民小學大門口前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036862620"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B004A001E"
+            },
+            {
+                "key": "road",
+                "value": "文賢國民小學大門口前"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ac79"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845221832",
+        "name": "TW150114A0203249",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "M0Y5F2PG7HR55FFX",
+        "lat": 22.94772,
+        "lon": 120.3301766,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "關廟工業聚落"
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "關廟毅豪紙業附近大順路135號前桿號不清"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848041"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D004D0054"
+            },
+            {
+                "key": "road",
+                "value": "關廟毅豪紙業附近大順路135號前桿號不清"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5aa48"
+            },
+            {
+                "key": "target",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "關廟區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849114249",
+        "name": "TW150114A0203291",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "2GHFH70H5R00UT1S",
+        "lat": 22.9151591,
+        "lon": 120.22044,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "行大街153號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037044392"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500D00550044"
+            },
+            {
+                "key": "road",
+                "value": "行大街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4bcc8"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845117360",
+        "name": "TW150114A0203286",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "CSUY0FYSRE33134G",
+        "lat": 22.9191473,
+        "lon": 120.2271498,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正路一段36號斜對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036849361"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D00370030"
+            },
+            {
+                "key": "road",
+                "value": "中正路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d276"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848884239",
+        "name": "TW150114A0203281",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "WSBFSCRUSFYZE4W3",
+        "lat": 22.930807,
+        "lon": 120.2309,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "保安路一段115號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036854478"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00420057"
+            },
+            {
+                "key": "road",
+                "value": "保安路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4ba2b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840254822",
+        "name": "TW150114A0203295",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "AG1AHZS2MTPCX01E",
+        "lat": 22.9288023,
+        "lon": 120.23161,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "文賢路一段662號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036862075"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500C003C005B"
+            },
+            {
+                "key": "road",
+                "value": "文賢路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4aacd"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840513410",
+        "name": "TW150114A0203264",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "4WX7EHSGFXTKE919",
+        "lat": 23.1793116,
+        "lon": 120.1738891,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮5-2號"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037045621"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B003E003B"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮5-2號"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d58765"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848216472",
+        "name": "TW150114A0203268",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "4R0PX5H3SYMS4HM1",
+        "lat": 23.1784591,
+        "lon": 120.18269,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "南28+中央公路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861002"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A001F0044"
+            },
+            {
+                "key": "road",
+                "value": "南28+中央公路口"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d56fc1"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848700502",
+        "name": "TW150114A0203244",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "CC0ZWC9CRC5349CZ",
+        "lat": 23.1916923,
+        "lon": 120.1751021,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳里興390之1號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845591"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A003B0055"
+            },
+            {
+                "key": "road",
+                "value": "佳里興390之1號旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c002"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842702353",
+        "name": "TW150114A0203225",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "F9W0G1EB4ZKEP79C",
+        "lat": 22.9955806,
+        "lon": 120.2503738,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "復興路1巷41弄2號"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036849015"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0033003A"
+            },
+            {
+                "key": "road",
+                "value": "復興路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ac17"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "永康區"
+            }
+        ],
+        "updateTime": "2023-04-20",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842488219",
+        "name": "TW150114A0203217",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "4BERKG310KSYF9TG",
+        "lat": 22.980402,
+        "lon": 120.2380523,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "東成街201巷口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845492"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B003C003A"
+            },
+            {
+                "key": "road",
+                "value": "東成街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5cf88"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840655108",
+        "name": "TW150114A0203300",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "GA10B2ACZXAHW4R0",
+        "lat": 22.92313,
+        "lon": 120.22408,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "二仁路一段142號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036847662"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0047003A"
+            },
+            {
+                "key": "road",
+                "value": "二仁路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a597"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2020-06-02",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844127499",
+        "name": "TW150114A0203234",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "444A2YSTUS1Y2AP7",
+        "lat": 22.9852446,
+        "lon": 120.2609328,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "土庫路210號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845559"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A001C0044"
+            },
+            {
+                "key": "road",
+                "value": "土庫路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f49bac"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844411829",
+        "name": "TW150114A0203256",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "K0ETR7GZXKFZYGRW",
+        "lat": 23.1790218,
+        "lon": 120.1774596,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "六安110-40號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037040275"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A003A0057"
+            },
+            {
+                "key": "road",
+                "value": "六安110-40號旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4be99"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847126250",
+        "name": "TW150114A0203245",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "F2214GFS5ZXEHM0Z",
+        "lat": 23.191429,
+        "lon": 120.1788,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "興化高幹29對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037044350"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D003D0030"
+            },
+            {
+                "key": "road",
+                "value": "興化高幹29對面"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4ab32"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847937886",
+        "name": "TW150114A0203292",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "05ZCAXA3WF290C19",
+        "lat": 22.918087,
+        "lon": 120.224716,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正西路21號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861044"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0038004A"
+            },
+            {
+                "key": "road",
+                "value": "中正西路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f49b54"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848661897",
+        "name": "TW150114A0203223",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "H7SF1SSEUE02T3MF",
+        "lat": 22.98738,
+        "lon": 120.2514266,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "大發路+中正路三段523巷口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036862901"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00400055"
+            },
+            {
+                "key": "road",
+                "value": "大發路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a991"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6845821242",
+        "name": "TW150114A0203266",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "YUBHA203RSCXCWGE",
+        "lat": 23.170597,
+        "lon": 120.17245,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳北路+佳北路382巷口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036853165"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A004D002A"
+            },
+            {
+                "key": "road",
+                "value": "佳北路+佳北路382巷口"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c2a7"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840702498",
+        "name": "TW150114A0203243",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "M21BFRKWHTW57M5E",
+        "lat": 23.1938971,
+        "lon": 120.1891631,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹124"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037996021"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0042003A"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹124"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d2bd"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843420313",
+        "name": "TW150114A0203252",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "X59F9H9BGES1Y0HZ",
+        "lat": 23.1858748,
+        "lon": 120.18302,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹95右#17"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036843950"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D003E0051"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹95右#17"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c00b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840973934",
+        "name": "TW150114A0203270",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "BBP02M37WYYHR9UW",
+        "lat": 23.1765651,
+        "lon": 120.1847456,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹46右1"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848082"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B003C0045"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹46右1"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ab5b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-04-20",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849670164",
+        "name": "TW150114A0203209",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "B77MC0UGKM4SBMU2",
+        "lat": 22.989809,
+        "lon": 120.24124,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕永路+裕永一街口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037044533"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00480057"
+            },
+            {
+                "key": "road",
+                "value": "裕永路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b56e"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844366333",
+        "name": "TW150114A0203275",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "C7BCESRRXHUH2KYK",
+        "lat": 22.9292621,
+        "lon": 120.22784,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "保安路一段59之5號斜對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037026555"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A001E0045"
+            },
+            {
+                "key": "road",
+                "value": "保安路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c41f"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843887016",
+        "name": "TW150114A0203237",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "U03B35FY9MF4FK73",
+        "lat": 23.1705455,
+        "lon": 120.1798476,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳北路127號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037022547"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00320057"
+            },
+            {
+                "key": "road",
+                "value": "佳北路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d570bd"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848427995",
+        "name": "TW150114A0203271",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "GBH79AF2ZCSH14MG",
+        "lat": 23.1096366,
+        "lon": 120.2576533,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "樹谷園區工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "鄰近工業區社區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "樹谷 直加弄大道/木柵港橋1-60道路編號179"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848561"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A002E0058"
+            },
+            {
+                "key": "road",
+                "value": "樹谷 直加弄大道/木柵港橋1-60道路編號179"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ac77"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "安定區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848134713",
+        "name": "TW150114A0203224",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "2AB7W3AZ3Z5CWBTK",
+        "lat": 22.98958,
+        "lon": 120.254364,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "大吉路+大利路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037021150"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D00420058"
+            },
+            {
+                "key": "road",
+                "value": "大吉路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a591"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846605189",
+        "name": "TW150114A0203212",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "RSPSEH3FH0ZUYC7R",
+        "lat": 22.9864711,
+        "lon": 120.2541731,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "大順路+大利路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036858776"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A002A0057"
+            },
+            {
+                "key": "road",
+                "value": "大順路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d572ce"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-04-20",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843151237",
+        "name": "TW150114A0203242",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "5SKFT317SXY7BP47",
+        "lat": 23.1960791,
+        "lon": 120.1784743,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "興化高幹33左8往南10M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037036992"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0052003A"
+            },
+            {
+                "key": "road",
+                "value": "興化高幹33左8往南10M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d079"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843350720",
+        "name": "TW150114A0203247",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "ZKFGC3445WK0WWE3",
+        "lat": 23.1944541,
+        "lon": 120.1700438,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "興化高幹57"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037044244"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D00430030"
+            },
+            {
+                "key": "road",
+                "value": "興化高幹57"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5a994"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "將軍區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846540731",
+        "name": "TW150114A0203232",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "ZCC1UYFM1X9MA10S",
+        "lat": 22.9797,
+        "lon": 120.2543791,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "忠義路662號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036844545"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0022004A"
+            },
+            {
+                "key": "road",
+                "value": "忠義路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4ad3b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847681384",
+        "name": "TW150114A0203226",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "FT0B5040WFC5U3CY",
+        "lat": 22.9817466,
+        "lon": 120.2569885,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "太乙路6號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036862125"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D0041002F"
+            },
+            {
+                "key": "road",
+                "value": "太乙路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c255"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841811960",
+        "name": "TW150114A0203213",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "CMUSECC243MHCK5A",
+        "lat": 22.99116,
+        "lon": 120.26034,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "太子路238號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037031613"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B003F001E"
+            },
+            {
+                "key": "road",
+                "value": "太子路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d077"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841931611",
+        "name": "TW150114A0203227",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "F1207FHMKCFGZTM9",
+        "lat": 22.9835853,
+        "lon": 120.252243,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "太乙九街"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037020178"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0044001F"
+            },
+            {
+                "key": "road",
+                "value": "太乙九街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f499a5"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-09-07",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840193079",
+        "name": "TW150114A0203277",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MHAHA4TMF9KRTPGW",
+        "lat": 22.9365425,
+        "lon": 120.2423858,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "田厝二街115巷+保安路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861465"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B004F003A"
+            },
+            {
+                "key": "road",
+                "value": "田厝二街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b4a1"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842645021",
+        "name": "TW150114A0203294",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "TRA3FY1599S1YMT4",
+        "lat": 22.9211921,
+        "lon": 120.2248916,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "二仁路一段68號旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037034450"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A001A0045"
+            },
+            {
+                "key": "road",
+                "value": "二仁路一段"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d572cf"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6842543462",
+        "name": "TW150114A0203265",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "G3KHMRB5BRESCFCX",
+        "lat": 23.1737936,
+        "lon": 120.174118,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "一笑幹10往南10M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037047916"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B00300045"
+            },
+            {
+                "key": "road",
+                "value": "一笑幹10往南10M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c38b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847229931",
+        "name": "TW150114A0203206",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MTXUF1750G0FG0CG",
+        "lat": 22.9830683,
+        "lon": 120.23851,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕農一街+裕文路口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861457"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A002F0057"
+            },
+            {
+                "key": "road",
+                "value": "裕農一街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5721f"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847742557",
+        "name": "TW150114A0203262",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "1STGEC01PHXTTMX5",
+        "lat": 23.1823271,
+        "lon": 120.170578,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮高幹57"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036846946"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D0028002F"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮高幹57"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ce3d"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6840396964",
+        "name": "TW150114A0203273",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "7PY3KUM27FKAMG0F",
+        "lat": 23.1759566,
+        "lon": 120.1882246,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹42-3"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848975"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A002B0055"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹42-3"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c202"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843789795",
+        "name": "TW150114A0203288",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "9WG44F5EA9K7ES5S",
+        "lat": 22.92454,
+        "lon": 120.23187,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "保安高幹17左10左1右1對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036847217"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0031003A"
+            },
+            {
+                "key": "road",
+                "value": "保安高幹17左10左1右1對面"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c0b2"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2021-03-15",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6848988678",
+        "name": "TW150114A0203222",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "AE0RYBZ0E9FXAWYS",
+        "lat": 22.9800433,
+        "lon": 120.2451018,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕信路319號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036848298"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0046001F"
+            },
+            {
+                "key": "road",
+                "value": "裕信路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4c1b4"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6843207330",
+        "name": "TW150114A0203211",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "411PWEKM23HH7BG0",
+        "lat": 22.9874381,
+        "lon": 120.2591018,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "土庫三街3號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037036471"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D00390030"
+            },
+            {
+                "key": "road",
+                "value": "土庫三街3號前"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d19e"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849363361",
+        "name": "TW150114A0203241",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "SWP259WX29SH3ZYR",
+        "lat": 23.1949633,
+        "lon": 120.1844023,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳學高幹124右14旁"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037034088"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500D00530044"
+            },
+            {
+                "key": "road",
+                "value": "佳學高幹124右14旁"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d10c"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847009321",
+        "name": "TW150114A0203290",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "CU0141BASM0UWZ5S",
+        "lat": 22.91617,
+        "lon": 120.22296,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "行大街34號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036861127"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500C002C001C"
+            },
+            {
+                "key": "road",
+                "value": "行大街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d58691"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849794164",
+        "name": "TW150114A0203263",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "HGGYB7Z22S41XWF9",
+        "lat": 23.1775206,
+        "lon": 120.1757735,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "萊芊寮1-29號前10M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037047361"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0047001F"
+            },
+            {
+                "key": "road",
+                "value": "萊芊寮1-29號前10M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5ce96"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846046726",
+        "name": "TW150114A0203289",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "MCEYU25WXKM2FGE2",
+        "lat": 22.92349,
+        "lon": 120.220169,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正西路202巷+二仁路一段315巷"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037046603"
+            },
+            {
+                "key": "mb_id",
+                "value": "2031374B3947500D00390028"
+            },
+            {
+                "key": "road",
+                "value": "中正西路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5abba"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6847426070",
+        "name": "TW150114A0203278",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "T1ZA1ZZTSMTTYX53",
+        "lat": 22.933792,
+        "lon": 120.2368696,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "保安工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "三爺宮左後方"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037978441"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B002F003A"
+            },
+            {
+                "key": "road",
+                "value": "三爺宮左後方"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5bbab"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6849402464",
+        "name": "TW150114A0203219",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "5GA1T0UPBYFPHP3X",
+        "lat": 22.9817485,
+        "lon": 120.2417068,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕忠路257號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036860251"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A004C002A"
+            },
+            {
+                "key": "road",
+                "value": "裕忠路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5d02b"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846708837",
+        "name": "TW150114A0203204",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "PY2R3Y012SBRBRES",
+        "lat": 22.9821891,
+        "lon": 120.253601,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "太乙路51號前"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037023719"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A002B0056"
+            },
+            {
+                "key": "road",
+                "value": "太乙路"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d58481"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6841567003",
+        "name": "TW150114A0203231",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "ETE5MH5GYGXPMXRE",
+        "lat": 22.9766768,
+        "lon": 120.25387,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "中正路三段+太乙五街口"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037044772"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B0038003A"
+            },
+            {
+                "key": "road",
+                "value": "中正路三段+太乙五街口"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4bd26"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846868071",
+        "name": "TW150114A0203240",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "3WCMTCUC5GGB0P2P",
+        "lat": 23.190649,
+        "lon": 120.1883391,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "佳里興326號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036846870"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00450058"
+            },
+            {
+                "key": "road",
+                "value": "佳里興"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d58b12"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844715026",
+        "name": "TW150114A0203258",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "5RTK9FSAEBYWPY0K",
+        "lat": 23.181343,
+        "lon": 120.1833266,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "true"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "六安117之35號往東10M"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037032157"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A00360058"
+            },
+            {
+                "key": "road",
+                "value": "六安117之35號往東10M"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d571c3"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "佳里區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6844804110",
+        "name": "TW150114A0203248",
+        "desc": "柏昇SAQ-200",
+        "type": "general",
+        "uri": "ZW24775H2C70PYTT",
+        "lat": 23.19137,
+        "lon": 120.1682051,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "佳里工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "興化高幹62右8"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108037985271"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500B00180035"
+            },
+            {
+                "key": "road",
+                "value": "興化高幹62右8"
+            },
+            {
+                "key": "sb_id",
+                "value": "03d5cee2"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "將軍區"
+            }
+        ],
+        "updateTime": "2023-03-27",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "6846432587",
+        "name": "TW150114A0203215",
+        "desc": "SAQ-200",
+        "type": "general",
+        "uri": "5PGGRFWR4CFS191F",
+        "lat": 22.9766596,
+        "lon": 120.2477416,
+        "alt": 3.0,
+        "attributes": [
+            {
+                "key": "area",
+                "value": "仁德工業區"
+            },
+            {
+                "key": "areaType",
+                "value": "工業區"
+            },
+            {
+                "key": "_chk_lat_lon",
+                "value": "false"
+            },
+            {
+                "key": "devstat",
+                "value": "0"
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000000000"
+            },
+            {
+                "key": "landmark",
+                "value": "裕信六街163號對面"
+            },
+            {
+                "key": "mac_id",
+                "value": "861108036845641"
+            },
+            {
+                "key": "mb_id",
+                "value": "203237473047500A0053002A"
+            },
+            {
+                "key": "road",
+                "value": "裕信六街"
+            },
+            {
+                "key": "sb_id",
+                "value": "03f4b508"
+            },
+            {
+                "key": "target",
+                "value": "工業區"
+            },
+            {
+                "key": "town",
+                "value": "仁德區"
+            }
+        ],
+        "updateTime": "2023-03-28",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerName": "柏昇",
+        "mobile": false,
+        "outdoor": false,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670007275617",
+        "name": "TW150314A0508089",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670006117146",
+        "name": "TW150314A0508090",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670009760139",
+        "name": "TW150314A0508091",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670005483034",
+        "name": "TW150314A0508092",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670001440130",
+        "name": "TW150314A0508093",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670001261492",
+        "name": "TW150314A0508094",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670001553277",
+        "name": "TW150314A0508095",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670003711390",
+        "name": "TW150314A0508096",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670009192805",
+        "name": "TW150314A0508097",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670006469206",
+        "name": "TW150314A0508098",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670002411243",
+        "name": "TW150314A0508100",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670005164744",
+        "name": "TW150314A0508099",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [
+            {
+                "key": "area",
+                "value": ""
+            },
+            {
+                "key": "areaType",
+                "value": "一般社區"
+            },
+            {
+                "key": "town",
+                "value": "西港區"
+            },
+            {
+                "key": "devstat",
+                "value": 0
+            },
+            {
+                "key": "errorcode",
+                "value": "00000000000000000000000000010000"
+            }
+        ],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "67000667499",
+        "name": "TW150314A0508101",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670004568507",
+        "name": "TW150314A0508102",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    },
+    {
+        "id": "670009001781",
+        "name": "TW150314A0508103",
+        "desc": "廣域SAQ-210",
+        "type": "general",
+        "uri": "",
+        "lat": 23.1394883,
+        "lon": 120.217315,
+        "alt": 3,
+        "attributes": [],
+        "updateTime": "2023-10-12",
+        "reference": false,
+        "display": true,
+        "deviceType": "15",
+        "ownerId": "426",
+        "manufacturerId": "aeclpad",
+        "mobile": false,
+        "outdoor": true,
+        "tags": [],
+        "county": "臺南市"
+    }
+]

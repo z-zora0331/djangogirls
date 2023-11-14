@@ -1,0 +1,198 @@
+[
+  {
+    "id": "6843952569",
+    "name": "TW150114A0203230",
+    "desc": "SAQ-200",
+    "type": "general",
+    "uri": "E7A5YPRARB5H93ZA",
+    "lat": 23.2256033,
+    "lon": 120.309325,
+    "alt": 3.0,
+    "attributes": [
+      {
+        "key": "area",
+        "value": "官田工業區"
+      },
+      {
+        "key": "areaType",
+        "value": "鄰近工業區社區"
+      },
+      {
+        "key": "_chk_lat_lon",
+        "value": "true"
+      },
+      {
+        "key": "devstat",
+        "value": "0"
+      },
+      {
+        "key": "errorcode",
+        "value": "00000000000000000000000000000000"
+      },
+      {
+        "key": "landmark",
+        "value": "台一線 威致鋼鐵工業股份有限公司前(桿號490003)"
+      },
+      {
+        "key": "mac_id",
+        "value": "861108036859121"
+      },
+      {
+        "key": "mb_id",
+        "value": "203237473047500A00230056"
+      },
+      {
+        "key": "road",
+        "value": "台一線 威致鋼鐵工業股份有限公司前(桿號490003)"
+      },
+      {
+        "key": "sb_id",
+        "value": "03f4b509"
+      },
+      {
+        "key": "target",
+        "value": "工業區"
+      },
+      {
+        "key": "town",
+        "value": "官田區"
+      }
+    ],
+    "updateTime": "2023-03-27",
+    "reference": false,
+    "display": true,
+    "deviceType": "15",
+    "ownerId": "426",
+    "manufacturerName": "柏昇",
+    "mobile": false,
+    "outdoor": false,
+    "tags": [],
+    "county": "臺南市"
+  },
+  {
+    "id": "6700069342",
+    "name": "TW150314A0508087",
+    "desc": "廣域SAQ-210",
+    "type": "general",
+    "uri": "",
+    "lat": 23.1394883,
+    "lon": 120.217315,
+    "alt": 3,
+    "attributes": [
+      {
+        "key": "area",
+        "value": ""
+      },
+      {
+        "key": "areaType",
+        "value": "一般社區"
+      },
+      {
+        "key": "town",
+        "value": "西港區"
+      },
+      {
+        "key": "devstat",
+        "value": 0
+      },
+      {
+        "key": "errorcode",
+        "value": "00000000000000000000000000010000"
+      }
+    ],
+    "updateTime": "2023-10-12",
+    "reference": false,
+    "display": true,
+    "deviceType": "15",
+    "ownerId": "426",
+    "manufacturerId": "aeclpad",
+    "mobile": false,
+    "outdoor": true,
+    "tags": [],
+    "county": "臺南市"
+  },
+  {
+    "id": "670003654619",
+    "name": "TW150314A0508088",
+    "desc": "廣域SAQ-210",
+    "type": "general",
+    "uri": "",
+    "lat": 23.1394883,
+    "lon": 120.217315,
+    "alt": 3,
+    "attributes": [
+      {
+        "key": "area",
+        "value": ""
+      },
+      {
+        "key": "areaType",
+        "value": "一般社區"
+      },
+      {
+        "key": "town",
+        "value": "西港區"
+      },
+      {
+        "key": "devstat",
+        "value": 0
+      },
+      {
+        "key": "errorcode",
+        "value": "00000000000000000000000000010000"
+      }
+    ],
+    "updateTime": "2023-10-12",
+    "reference": false,
+    "display": true,
+    "deviceType": "15",
+    "ownerId": "426",
+    "manufacturerId": "aeclpad",
+    "mobile": false,
+    "outdoor": true,
+    "tags": [],
+    "county": "臺南市"
+  },
+  {
+    "id": "670001346166",
+    "name": "TW150314A0508089",
+    "desc": "廣域SAQ-210",
+    "type": "general",
+    "uri": "",
+    "lat": 23.1394883,
+    "lon": 120.217315,
+    "alt": 3,
+    "attributes": [
+      {
+        "key": "area",
+        "value": ""
+      },
+      {
+        "key": "areaType",
+        "value": "一般社區"
+      },
+      {
+        "key": "town",
+        "value": "西港區"
+      },
+      {
+        "key": "devstat",
+        "value": 0
+      },
+      {
+        "key": "errorcode",
+        "value": "00000000000000000000000000010000"
+      }
+    ],
+    "updateTime": "2023-10-12",
+    "reference": false,
+    "display": true,
+    "deviceType": "15",
+    "ownerId": "426",
+    "manufacturerId": "aeclpad",
+    "mobile": false,
+    "outdoor": true,
+    "tags": [],
+    "county": "臺南市"
+  }
+]
