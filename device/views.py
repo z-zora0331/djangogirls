@@ -17,8 +17,8 @@ class deviceView(APIView):
             try:
                 header = request.headers
                 ck = header['Ck']
-                project = device_detail.findProjectDict(ck)
-                device_json_path = file_route + str(project['proj_id']) + ".json"
+                project = device_detail.findProject(ck)
+                device_json_path = file_route + str(project.split(',')[1]) + ".json"
             except:
                 return JsonResponse({"status": False, "type": "request", "message": "error: CK"}, status=400)
 
@@ -40,8 +40,8 @@ class deviceView(APIView):
             try:
                 header = request.headers
                 ck = header['Ck']
-                project = device_detail.findProjectDict(ck)
-                device_json_path = file_route + str(project['proj_id']) + ".json"
+                project = device_detail.findProject(ck)
+                device_json_path = file_route + str(project.split(',')[1]) + ".json"
             except:
                 return JsonResponse({"status": False, "type": "request", "message": "error: CK"}, status=400)
 
@@ -76,8 +76,8 @@ class deviceView(APIView):
             try:
                 header = request.headers
                 ck = header['Ck']
-                project = device_detail.findProjectDict(ck)
-                device_json_path = file_route + str(project['proj_id']) + ".json"
+                project = device_detail.findProject(ck)
+                device_json_path = file_route + str(project.split(',')[1]) + ".json"
             except:
                 return JsonResponse({"status": False, "type": "request", "message": "error: CK"}, status=400)
 

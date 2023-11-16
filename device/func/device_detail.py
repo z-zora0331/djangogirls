@@ -3,18 +3,12 @@ from datetime import date, datetime, timedelta
 import random
 from . import base # 同一層目錄
 
-def findProjectDict(input_ck):
-    project_dict = {
-        # "PK73Y2HHPK0MB7CSWR" : { "proj_id": 673, "proj_name": "18台南" },
-        # "PKC50WAF5FA04BZWR9" : { "proj_id": 1075, "proj_name": "19台南" },
-        # "PKWU4ZCBYTBAGGPTTH" : { "proj_id": 1207, "proj_name": "20台南" },
-        "61a24e74-7a80-4f77-9fe3-08c0656578ee" : { "proj_id": 673, "proj_name": "18台南" },
-        "33981437-4432-4dfa-8a0d-a59b37f6e7b8" : { "proj_id": 1075, "proj_name": "19台南" },
-        "bc3cb244-14ab-420f-8a89-ee00f69ccc24" : { "proj_id": 1207, "proj_name": "20台南" },
-    }
+def findProject(input_ck):
+    proj_data = base.openFile(f"device/file/project_info", "r", "")
 
-    dictfilt = lambda x : project_dict[x] == input_ck, project_dict[input_ck]
-    return list(dictfilt)[1]
+    for proj in proj_data.split('\n'):
+        if proj.split(',')[0] == input_ck:
+            return proj
 
 def findDeviceId(input_id, json_contents):
     # 取需要欄位做成字典查詢
@@ -58,7 +52,10 @@ def isNewDeviceId(device_id, json_contents):
 def randomId(obj, countycode, device_contents):
     for i in range(0, 100):
         random.seed(str(obj) + str(i) + str(random.random()))
-        device_id = str(countycode) + str(int(random.random()*10000000))
+        # (1) 亂數7碼
+        # device_id = str(countycode) + str(int(random.random()*10000000))
+        # (2) 順序3碼+亂數4碼
+        device_id = str(countycode) + str(len(device_contents)+1).zfill(3) + str(int(random.random()*(10**4))).zfill(4)
 
         # 查設備id是不是新的(True/False)
         isNew = isNewDeviceId(device_id, device_contents)

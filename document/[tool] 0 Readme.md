@@ -1,11 +1,18 @@
 [官方網站](https://docs.djangoproject.com/en/4.2/)
 [Getting started with Django](https://www.djangoproject.com/start/)
 
-1. https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/content/index.html <進行中>
-   https://tutorial.djangogirls.org/en/
-   https://tutorial-extensions.djangogirls.org/en/ <後續>
-2. https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/
+1. https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/content/index.html <done>
+   https://tutorial.djangogirls.org/en/ <done 兩個版本很像，應是新舊版差別>
+   https://tutorial.djangogirls.org/en/whats_next/ <ing 最後一頁----後續>
+   https://tutorial-extensions.djangogirls.org/en/ <ing 後續>
+2. https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/ <中文版的文件>
 3. [How to Deploy a Django App on Render](https://www.freecodecamp.org/news/deploying-a-django-app-to-render/)
+4. https://github.com/JacquesBlazor/python.DjangoTutorial.zh-tw
+5. https://docs.djangoproject.com/zh-hans/4.2/ <官方教程>
+6. https://docs.djangoproject.com/en/3.2/intro/tutorial01/ <官方教程>
+7. https://thekennethlove.com/ <girls Django入門影片課程>
+8. https://www.coursera.org/specializations/django <girls Django一些視訊講座可以免費旁聽>
+9. https://www.codecademy.com/learn/learn-python <codecademy Python課程>
 
 # Start
 
@@ -29,7 +36,7 @@
 
 [設定SQLite資料庫]
     $ python manage.py syncdb [舊版]
-    $ python manage.py migrate [新版]
+    $ python manage.py migrate [新版，依據INSTALLED_APPS配置]
 
     ‧VScode可下載套件，SQLite Viewer
 
@@ -48,5 +55,14 @@
     $ python manage.py startapp blog [建立APP]
     $ python manage.py makemigrations blog [建立DB:blog_post]
 
+[刪除application]
+    $ python manage.py migrate xxx zero [刪除models.py]
+    ‧刪除 xxx 文件夾
+    ‧刪除 settings.py 的 INSTALLED_APPS 相關app
+    ‧刪除 urls.py 相關app內容
+
 [安裝套件]
     $ pip install XXX
+    - django
+    - djangorestframework
+    - xmltodict

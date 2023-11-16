@@ -3,7 +3,7 @@ from django.utils import timezone
 from django.contrib.auth.models import User
 
 # Create your models here.
-### Function name永遠要大寫，models.Mode代表要存進資料庫
+### Function name永遠要大寫，models.Model代表要存進資料庫
 class Post(models.Model):
     ### models.ForeignKey - 與其他 model 的關聯。
     ### models.CharField - 定義一個有上限的字元。
