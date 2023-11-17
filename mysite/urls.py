@@ -17,6 +17,7 @@ Including another URLconf
 from django.urls import path, re_path, include
 from django.contrib import admin
 
+from django.contrib.auth import views
 from device.views import deviceView
 
 admin.autodiscover()
@@ -28,6 +29,8 @@ urlpatterns = [
     # Local test
     re_path(r'^admin/', admin.site.urls, name='admin'),
     # 原: path('admin/', admin.site.urls),
+    re_path(r'^accounts/login/$', views.LoginView.as_view(), name='login'), # 登入
+    re_path(r'^accounts/logout/$', views.LogoutView.as_view(next_page='/'), name='logout'), # 登出
     re_path(r'', include('blog.urls')),
     
     # 台南數據中心
