@@ -53,7 +53,8 @@
 
 [建立application]
     $ python manage.py startapp blog [建立APP]
-    $ python manage.py makemigrations blog [建立DB:blog_post]
+    $ python manage.py makemigrations blog [建立遷移-新增model]
+    $ python manage.py migrate blog [執行遷移-新增DB表格] 表格命名:AppName_className，例如:blog_post、blog_comment
 
 [刪除application]
     $ python manage.py migrate xxx zero [刪除models.py]
