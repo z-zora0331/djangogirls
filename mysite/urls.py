@@ -18,7 +18,7 @@ from django.urls import path, re_path, include
 from django.contrib import admin
 
 from django.contrib.auth import views
-from device.views import deviceView
+# from device.views import deviceView
 
 admin.autodiscover()
 # 讓r'^admin/'，對應到include(admin.site.urls) 
@@ -34,7 +34,7 @@ urlpatterns = [
     re_path(r'', include('blog.urls')),
     
     # 台南數據中心
-    path('iot/v1/device/', deviceView.get),
-    path('device/id/', deviceView.getId),
-    path('device/post/', deviceView.post),
+    # path('iot/v1/device/', deviceView.get),
+    # path('device/id/', deviceView.getId),
+    # path('device/post/', deviceView.post),
 ]

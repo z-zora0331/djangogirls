@@ -13,6 +13,7 @@
 7. https://thekennethlove.com/ <girls Django入門影片課程>
 8. https://www.coursera.org/specializations/django <girls Django一些視訊講座可以免費旁聽>
 9. https://www.codecademy.com/learn/learn-python <codecademy Python課程>
+10. https://yhhuang1966.blogspot.com/2020/11/python-django-3_29.html
 
 # Start
 
@@ -55,6 +56,7 @@
     $ python manage.py startapp blog [建立APP]
     $ python manage.py makemigrations blog [建立遷移-新增model]
     $ python manage.py migrate blog [執行遷移-新增DB表格] 表格命名:AppName_className，例如:blog_post、blog_comment
+    $ python manage.py showmigrations [查看所有遷移]
 
 [刪除application]
     $ python manage.py migrate xxx zero [刪除models.py]
