@@ -31,9 +31,11 @@
                     {{ comment.created_date }}
                     {% if user.is_authenticated %}
                         {% if not comment.approved_comment %}
+                            <a class="btn btn-default disabled" href="{% url 'comment_remove' pk=comment.pk %}"><span class="glyphicon glyphicon-thumbs-down"></span></a>
                             <a class="btn btn-default" href="{% url 'comment_approve' pk=comment.pk %}"><span class="glyphicon glyphicon-thumbs-up"></span></a>
                         {% else %}
                             <a class="btn btn-default" href="{% url 'comment_remove' pk=comment.pk %}"><span class="glyphicon glyphicon-thumbs-down"></span></a>
+                            <a class="btn btn-default disabled" href="{% url 'comment_approve' pk=comment.pk %}"><span class="glyphicon glyphicon-thumbs-up"></span></a>
                         {% endif %}
                     {% endif %}
                 </div>
