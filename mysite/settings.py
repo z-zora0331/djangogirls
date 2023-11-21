@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-v6_rr!5t^#36r41w17j3sj8$a@%ki8w3l3lcm+^23c!w(6_gzs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'zora0331.pythonanywhere.com']
 
 
 # Application definition
@@ -140,6 +140,10 @@ USE_TZ = False
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = 'staticfiles'
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, "static"),
+)
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
@@ -153,20 +157,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
-ALLOWED_HOSTS = ['*']
 
-STATIC_ROOT = 'staticfiles'
-
-DEBUG = False
 
 try:
     from .local_settings import *
 except ImportError:
     pass
 
-# CSS static
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "static"),
-)
 
 LOGIN_REDIRECT_URL = '/'
