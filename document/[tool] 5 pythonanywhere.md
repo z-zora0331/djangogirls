@@ -5,7 +5,7 @@
 
 ‧Bash
     $ git clone https://github.com/z-zora0331/djangogirls.git
-    $ cd cd djangogirls/
+    $ cd djangogirls/
     $ pip3.8 install --user pythonanywhere
     $ pip install djangorestframework
 
