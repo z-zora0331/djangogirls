@@ -22,5 +22,10 @@
 ‧Web
     Add a new web app
 
-    ‧project Name: djangogirls (預設mysite會創建新的)
-    ‧Directory: /home/zora0331
+    Code:
+    ‧Source code: /home/zora0331/djangogirls
+    ‧Working directory: /home/zora0331/
+    ‧WSGI configuration file: /var/www/zora0331_pythonanywhere_com_wsgi.py
+
+    Static files:
+    /static/    /home/zora0331/djangogirls/static

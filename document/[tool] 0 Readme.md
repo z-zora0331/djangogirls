@@ -6,6 +6,7 @@
    https://tutorial.djangogirls.org/en/whats_next/ <ing 最後一頁----後續>
    https://tutorial-extensions.djangogirls.org/en/ <ing 後續>
 2. https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/ <中文版的文件>
+   https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/django/deploy.html
 3. [How to Deploy a Django App on Render](https://www.freecodecamp.org/news/deploying-a-django-app-to-render/)
 4. https://github.com/JacquesBlazor/python.DjangoTutorial.zh-tw
 5. https://docs.djangoproject.com/zh-hans/4.2/ <官方教程>
@@ -14,6 +15,8 @@
 8. https://www.coursera.org/specializations/django <girls Django一些視訊講座可以免費旁聽>
 9. https://www.codecademy.com/learn/learn-python <codecademy Python課程>
 10. https://yhhuang1966.blogspot.com/2020/11/python-django-3_29.html
+11. https://ithelp.ithome.com.tw/articles/10212364
+12. https://summer10920.github.io/2020/03-11/css-baseclass-3/ <css>
 
 # Start
 

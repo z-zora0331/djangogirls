@@ -2,11 +2,29 @@
 
 {% block content %}
     {% for post in posts %}
-    <div class="post">
-        <p class="date">published: {{ post.published_date }}</p>
-        <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
-        <p>{{ post.text|linebreaksbr }}</p>
-        <a href="{% url 'post_detail' pk=post.pk %}">Comments: {{ post.approved_comments.count }}</a>
+    <div class="post-box">
+        <div class="row">
+            <div class="col-md col-sm post-title">
+                {% now "Y-m" as current_month %}
+                {% if current_month == post.published_date|date:'Y-m' %}
+                <span>new</span>
+                {% endif %}
+                <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
+            </div>
+            <div class="col-md-3 col-sm-4 post-date">
+                {{ post.published_date|date:'Y-m-d H:m' }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col post-content">
+                {{ post.text|linebreaksbr }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col post-comments">
+                <a href="{% url 'post_detail' pk=post.pk %}">Comments: {{ post.approved_comments.count }}</a>
+            </div>
+        </div>
     </div>
     {% endfor %}
 {% endblock %}

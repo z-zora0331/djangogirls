@@ -2,10 +2,23 @@
 
 {% block content %}
     {% for post in posts %}
-    <div class="post">
-        <p class="date">created: {{ post.created_date|date:'d-m-Y' }}</p>
-        <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
-        <p>{{ post.text|truncatechars:200 }}</p>
+    <div class="post-box">
+        <div class="row">
+            <div class="col-md col-sm post-title">
+                {% if not post.published_date %}
+                <span>草稿</span>
+                {% endif %}
+                <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
+            </div>
+            <div class="col-md-3 col-sm-4 post-date">
+                {{ post.created_date|date:'Y-m-d H:m' }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col post-content">
+                {{ post.text|linebreaksbr }}
+            </div>
+        </div>
     </div>
     {% endfor %}
 {% endblock %}
