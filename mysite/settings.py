@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-v6_rr!5t^#36r41w17j3sj8$a@%ki8w3l3lcm+^23c!w(6_gzs
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # If setting DEBUG=False, then Static files access fail.
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'zora0331.pythonanywhere.com']
 
