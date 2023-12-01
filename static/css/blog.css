@@ -1,6 +1,12 @@
-﻿:root {
+﻿@font-face {
+    font-family: 'jf-openhuninn-2.0';
+    src: local('jf-openhuninn-2.0'), url('../fonts/jf-openhuninn-2.0.ttf') format("opentype");
+}
+
+:root {
     --main-color: #417690;
     --main-hover-color: #87B3C9;
+    --bs-font-sans-serif: "jf-openhuninn-2.0",system-ui,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
 }
 
 /* bootstrap nav */
@@ -13,11 +19,14 @@
     color: #ffffff;
 }
 
-.nav-text {
+.nav-text, .nav-link {
     color: rgba(255, 255, 255);
     display: block;
     padding: 0.5rem 1rem;
     text-decoration: none;
+}
+.nav-link:hover {
+    color: rgba(255, 255, 255, .55);
 }
 
 /* body */
@@ -41,13 +50,7 @@
     padding-top: 80px;
 }
 
-.post-box {
-    border-bottom: var(--main-color) solid 2px;
-    padding-top: 1em;
-}
-
 .post-title {
-    padding: 1em;
     display: flex;
     align-items: center;
 }
@@ -55,7 +58,6 @@
 .post-title span {
     color: orange;
     font-size: small;
-    /* font-family: "Lucida Console", Courier, monospace; */
     font-family: "Lucida Console", "Courier New", monospace;
     padding-right: 0.5em;
 }
@@ -70,9 +72,7 @@
 }
 
 .post-date {
-    padding: 1em;
     font-size: smaller;
-    text-align: right;
 }
 
 .post-content {
@@ -85,8 +85,19 @@
     box-sizing: border-box;
 }
 
-.post-comments {
-    padding: 0 1em 1.5em;
+.btn-default {
+    background-color: var(--main-color);
+    color: #ffffff;
+    font-size: x-small;
+}
+
+.btn-default:hover {
+    color: var(--main-hover-color);
+    font-size: x-small;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
 }
 
 /* 2. Small devices （橫式手機用途，包含 576px and up) */
@@ -98,14 +109,6 @@
 
     .bg-base {
         background-color: black;
-    }
-    .post-title {
-        padding: 1em 1em 0 1em;
-    }
-    .post-date {
-        padding: 3px 1em 1em 1em;
-        font-size: smaller;
-        text-align: left;
     }
 }
 

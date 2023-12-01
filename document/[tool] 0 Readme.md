@@ -17,6 +17,9 @@
 10. https://yhhuang1966.blogspot.com/2020/11/python-django-3_29.html
 11. https://ithelp.ithome.com.tw/articles/10212364
 12. https://summer10920.github.io/2020/03-11/css-baseclass-3/ <css>
+13. https://w3c.hexschool.com/flexbox/2186a786 <bootstrap>
+14. https://learndjango.com/
+15. https://justfont.com/huninn/ <字體-粉圓>
 
 # Start
 
