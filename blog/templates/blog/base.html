@@ -43,14 +43,12 @@
                         </li>
                         {% endif %}
                     </ul>
-                    <!-- <div> -->
                     {% if user.is_authenticated %}
                     <div style="display: flex;" class="float-md-end">
                         <span class="nav-text">Hello, {{ user.username }}</span>
                         <a class="nav-link" aria-current="page" href="{% url 'logout' %}">Login Out</a>
                     </div>
                     {% endif %}
-                    <!-- </div> -->
                 </div>
                 
             </div>

@@ -6,6 +6,7 @@
 :root {
     --main-color: #417690;
     --main-hover-color: #87B3C9;
+    --main-lightcolor: #E6EFF4;
     --bs-font-sans-serif: "jf-openhuninn-2.0",system-ui,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
 }
 
@@ -13,6 +14,10 @@
 
 .bg-base {
     background-color: var(--main-color);
+}
+
+.bg-lightbase {
+    background-color: var(--main-lightcolor);
 }
 
 .bg-base .navbar-brand {

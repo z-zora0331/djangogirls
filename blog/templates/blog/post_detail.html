@@ -36,31 +36,41 @@
     </div>
     <div class="pt-3 pb-2">
         {% for comment in post.comments.all %}
-            {% if user.is_authenticated or comment.approved_comment %}
+            {% if user.is_authenticated and post.author|lower == user.username|lower %}
                 <div class="d-flex justify-content-between">
-                    <div class="flex-fill fw-bold">{{ comment.author }}</div>
+                    <div class="flex-fill fw-bold">{% include './icons/person-fill.svg' %} {{ comment.author }}</div>
                     <div class="px-2">
                         {{ comment.created_date|date:'Y-m-d H:m' }}
                     </div>
-                    {% if user.is_authenticated %}
-                        <div class="mb-2 mb-md-0">
-                            {% if post.author|lower == user.username|lower %}
-                                {% if not comment.approved_comment %}
-                                    <a class="btn btn-sm btn-default" href="{% url 'comment_approve' pk=comment.pk %}">{% include './icons/eye.svg' %}</a>
-                                    <a class="btn btn-sm btn-default disabled" href="{% url 'comment_remove' pk=comment.pk %}">{% include './icons/eye-slash.svg' %}</a>
-                                {% else %}
-                                    <a class="btn btn-sm btn-default disabled" href="{% url 'comment_approve' pk=comment.pk %}">{% include './icons/eye.svg' %}</a>
-                                    <a class="btn btn-sm btn-default" href="{% url 'comment_remove' pk=comment.pk %}">{% include './icons/eye-slash.svg' %}</a>
-                                {% endif %}
-                            {% endif %}
-                        </div>
-                    {% endif %}
+                    <div class="mb-2 mb-md-0">
+                        {% if not comment.approved_comment %}
+                            <a class="btn btn-sm btn-default" href="{% url 'comment_approve' pk=comment.pk %}">{% include './icons/eye.svg' %}</a>
+                            <a class="btn btn-sm btn-default disabled" href="{% url 'comment_remove' pk=comment.pk %}">{% include './icons/eye-slash.svg' %}</a>
+                        {% else %}
+                            <a class="btn btn-sm btn-default disabled" href="{% url 'comment_approve' pk=comment.pk %}">{% include './icons/eye.svg' %}</a>
+                            <a class="btn btn-sm btn-default" href="{% url 'comment_remove' pk=comment.pk %}">{% include './icons/eye-slash.svg' %}</a>
+                        {% endif %}
+                    </div>
                 </div>
-                <div>
-                    <p>
+                <div class="p-2">
+                    <div class="bg-lightbase ps-4 rounded-3 pt-2 pb-1">
                         {{ comment.text|linebreaks }}
-                    </p>
+                    </div>
                 </div>
+            {% else %}
+                {% if post.approved_comments.count != 0 and comment.approved_comment %}
+                    <div class="d-flex justify-content-between">
+                        <div class="flex-fill fw-bold">{% include './icons/person-fill.svg' %} {{ comment.author }}</div>
+                        <div class="px-2">
+                            {{ comment.created_date|date:'Y-m-d H:m' }}
+                        </div>
+                    </div>
+                    <div class="p-2">
+                        <div class="bg-lightbase ps-4 rounded-3 pt-2 pb-1">
+                            {{ comment.text|linebreaks }}
+                        </div>
+                    </div>
+                {% endif %}
             {% endif %}
         {% empty %}
             <span>No comments here yet :(</span>
